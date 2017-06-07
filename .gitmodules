@@ -1,0 +1,18 @@
+[submodule "dotfiles_awesome_wm"]
+	path = dotfiles_awesome_wm
+	url = https://github.com/mikae/dotfiles_awesome_wm.git
+[submodule "dotfiles_emacs"]
+	path = dotfiles_emacs
+	url = https://github.com/mikae/dotfiles_emacs.git
+[submodule "dotfiles_linux"]
+	path = dotfiles_linux
+	url = https://github.com/mikae/dotfiles_linux.git
+[submodule "dotfiles_user"]
+	path = dotfiles_user
+	url = https://github.com/mikae/dotfiles_user.git
+[submodule "dotfiles_zsh"]
+	path = dotfiles_zsh
+	url = https://github.com/mikae/dotfiles_zsh.git
+[submodule "dotfiles_vim"]
+	path = dotfiles_vim
+	url = https://github.com/mikae/dotfiles_vim.git
